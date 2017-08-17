@@ -1,0 +1,17 @@
+c:\users\user\documents\visual studio 2015\Projects\Sudoku Solver\Sudoku Solver\bin\Debug\Sudoku Solver.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Sudoku Solver\Sudoku Solver\bin\Debug\Sudoku Solver.exe
+c:\users\user\documents\visual studio 2015\Projects\Sudoku Solver\Sudoku Solver\bin\Debug\Sudoku Solver.pdb
+c:\users\user\documents\visual studio 2015\Projects\Sudoku Solver\Sudoku Solver\obj\Debug\Sudoku Solver.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Sudoku Solver\Sudoku Solver\obj\Debug\Cell.g.cs
+c:\users\user\documents\visual studio 2015\Projects\Sudoku Solver\Sudoku Solver\obj\Debug\MainWindow.g.cs
+c:\users\user\documents\visual studio 2015\Projects\Sudoku Solver\Sudoku Solver\obj\Debug\App.g.cs
+c:\users\user\documents\visual studio 2015\Projects\Sudoku Solver\Sudoku Solver\obj\Debug\Sudoku Solver_MarkupCompile.cache
+c:\users\user\documents\visual studio 2015\Projects\Sudoku Solver\Sudoku Solver\obj\Debug\Sudoku Solver_MarkupCompile.lref
+c:\users\user\documents\visual studio 2015\Projects\Sudoku Solver\Sudoku Solver\obj\Debug\Cell.baml
+c:\users\user\documents\visual studio 2015\Projects\Sudoku Solver\Sudoku Solver\obj\Debug\MainWindow.baml
+c:\users\user\documents\visual studio 2015\Projects\Sudoku Solver\Sudoku Solver\obj\Debug\Sudoku Solver.g.resources
+c:\users\user\documents\visual studio 2015\Projects\Sudoku Solver\Sudoku Solver\obj\Debug\Sudoku_Solver.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Sudoku Solver\Sudoku Solver\obj\Debug\Sudoku Solver.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Sudoku Solver\Sudoku Solver\obj\Debug\Sudoku Solver.exe
+c:\users\user\documents\visual studio 2015\Projects\Sudoku Solver\Sudoku Solver\obj\Debug\Sudoku Solver.pdb
+c:\users\user\documents\visual studio 2015\Projects\Sudoku Solver\Sudoku Solver\obj\Debug\GeneratedInternalTypeHelper.g.cs
